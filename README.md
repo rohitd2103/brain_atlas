@@ -36,5 +36,7 @@ Open a browser at http://127.0.0.1:8050
 
 ![brain.png](brain.png)
 
+## Pitch Deck 
+[Link](https://stdntpartners-my.sharepoint.com/:p:/g/personal/rohit_dadgal_studentambassadors_com/EVO6N4pvqJZHnzQ6v-KxAhoB0BYPtWZ3zwomQmLmn713_Q?e=bfYdS3)
 
 
